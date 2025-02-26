@@ -1,1 +1,1 @@
-hello! my name is thomas sheard. i'm a current uni student who is interested in programming, among other things. visit <a href="https://thomas.sheards.net" target="_blank">my website</a> to learn more about me!
+Hello! My name is thomas sheard. I'm currently studying mathematical computing and am interesting in programming, among other things. Visit <a href="https://thomas.sheards.net" target="_blank">my website</a> to learn more about me!
