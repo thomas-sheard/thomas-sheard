@@ -1,1 +1,1 @@
-Hello! My name is Thomas. I'm currently studying mathematical computing and am interesting in programming, among other things. Visit <a href="https://thomas.sheards.net" target="_blank">my website</a> to learn more about me!
+Hello! My name is Thomas. I'm currently a Maths and Stats student at RMIT, and am interested in computing in my spare time, among other things. Visit <a href="https://thomas.sheards.net" target="_blank">my website</a> for more of my personal projects.
